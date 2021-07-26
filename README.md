@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="/cacode_cctvadmin/readme/raw/master/img/icon_dev.png" width="50%">
+<img src="./cacode_cctvadmin/readme/raw/master/img/icon_dev.png" width="50%">
 <!-- <img src="img/icon_dev.png" width="50%"> -->
 </h1>
 <h1 align="center">CACode Development Team</h1>
