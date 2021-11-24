@@ -7,7 +7,7 @@
 ### 组织名叫aecode实属无奈,因为在gitee,cacode已经被占了
 
 # 介绍
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一个因为名字被占被迫改名的组织......
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一个因为名字被占被迫改名的组织......  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;写代码总使枯燥无味的，于是就有了我们这群沙雕的码农。我们有很多新鲜有趣又好玩，能让你瞬间脑洞大开的项目。参与项目并贡献一些代码即可获得对应的纪念品  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不是很愿意维护英文版，所以文档大都是都是中文的，几乎见不到我们的英文文档。也不是因为什么乱七八糟的，就单纯的懒得写
 
