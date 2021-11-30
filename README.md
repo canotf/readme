@@ -15,23 +15,23 @@
 
 - Aestate Framework
   - 适用于 Python 的 ORM 框架
-  - [地址](https://gitee.com/cacode_cctvadmin/aestate)
+  - [地址](https://gitee.com/aecode/aestate)
 - Aestate Json
   - 适用于 Python 的 json 解析器
-  - [地址](https://gitee.com/cacode_cctvadmin/aestate-json)
+  - [地址](https://gitee.com/aecode/aestate-json)
 - Summer
   - 适用于 Java 的 ORM 框架
-  - [地址](https://gitee.com/cacode_cctvadmin/CACode-Summer)
+  - [地址](https://gitee.com/aecode/CACode-Summer)
   - 停更
 
 目前好玩的项目有：
 
 - 生死簿管理系统
-  - [后端地址](https://gitee.com/cacode_cctvadmin/diaboli-mundi-back)
-  - [前端地址](https://gitee.com/cacode_cctvadmin/diaboli-mundi-view)
-  - [需求地址](https://gitee.com/cacode_cctvadmin/diaboli-needs)
+  - [后端地址](https://gitee.com/aecode/diaboli-mundi-back)
+  - [前端地址](https://gitee.com/aecode/diaboli-mundi-view)
+  - [需求地址](https://gitee.com/aecode/diaboli-needs)
 - 钢琴
-  - [地址](https://gitee.com/cacode_cctvadmin/Piano)
+  - [地址](https://gitee.com/aecode/Piano)
   - 停更
 
 # 关爱程序员身心健康
